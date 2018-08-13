@@ -10,7 +10,7 @@
 
     python3 --version
     
-## 创建静态资源服务器
+## 创建静态资源服务器（http的根目录即为当前命令的执行目录）
 
     python3 -m http.server
 
