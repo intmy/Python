@@ -22,6 +22,7 @@
 ## 安装pip3
 
     sudo apt-get install python3-pip
+    sudo apt-get install python3.6-dev libmysqlclient-dev
     
 ## 运行pip3
 
