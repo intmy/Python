@@ -18,3 +18,11 @@
 
     sudo apt-get install python-pip python-dev build-essential
     sudo pip install --upgrade pip
+
+## 安装pip3
+
+    sudo apt-get install python3-pip
+    
+## 运行pip3
+
+    pip3
