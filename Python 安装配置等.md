@@ -9,6 +9,10 @@
 ## 检查版本
 
     python3 --version
+    
+## 创建静态资源服务器
+
+    python3 -m http.server
 
 ## 安装pip
 
